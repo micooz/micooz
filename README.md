@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=micooz&theme=dracula&show_icons=true)](https://github.com/micooz/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micooz&layout=compact&theme=dracula)](https://github.com/micooz/github-readme-stats)
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.leoy233.vercel.app/api/top-langs/?username=micooz&show_icons=true&count_private=true&include_all_commits=true&layout=compact" width="380px" height="200px"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=micooz&show_icons=true&count_private=true&include_all_commits=true" width="460px" height="200px" /></td>
+  </tr>
+</table>
