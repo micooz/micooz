@@ -1,15 +1,9 @@
 ### Hi there 👋
 
-**About me:**  
+**About me:**
 
-- I'm working on front-end development, primarily.
-- I'm passionate about open source and knowledge sharing.
-
-**My technology stack:**  
-
- <div>
-  <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-React-087ea4?style=flat&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Rust-f84b00?style=flat&logo=Rust&logoColor=white"> </div>
-</div>
+- 🔭 I'm a fullstack developer shipping AI-powered applications.
+- 🤖 I'm a deep AI user & learner — exploring LLMs, AI agents, and intelligent automation in my daily workflow.
+- 🛠️ I'm an AI builder — obsessed with turning AI capabilities into real-world products and developer tools.
+- 💼 I have extensive experience at top-tier tech companies, with deep expertise in large-scale system architecture.
+- 🌱 I'm passionate about open source and knowledge sharing.
